@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Quad-Tube-VCA-rescue)(type Legacy)(uri "${KIPRJMOD}/Quad Tube VCA-rescue.lib")(options "")(descr ""))
+)
