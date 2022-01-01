@@ -60,7 +60,7 @@
     (pad_drill 1.43)
     (pad_to_mask_clearance 0.05)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFFFFF)
+    (visible_elements FFFFF7FF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -3412,7 +3412,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE23CD)
-    (at 198.6025 135.89)
+    (at 199.39 135.89)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /6282E340)
@@ -3447,8 +3447,8 @@
     )
   )
 
-  (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE23BC)
-    (at 156.21 130.81)
+  (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61D1082E)
+    (at 157.48 135.89)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /627CA9F4)
@@ -3484,7 +3484,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE23AB)
-    (at 114.3 130.81)
+    (at 114.3 135.89)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /626F4255)
@@ -3592,7 +3592,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE2378)
-    (at 195.58 92.71)
+    (at 194.31 92.71)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /6266B790)
@@ -3628,7 +3628,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE2367)
-    (at 201.93 92.71 180)
+    (at 200.66 92.71 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /6266B8D4)
@@ -3736,7 +3736,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE2334)
-    (at 201.93 96.52)
+    (at 200.66 96.52)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /6266B8AF)
@@ -3808,7 +3808,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE2312)
-    (at 201.93 100.33)
+    (at 200.66 100.33)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /6266B890)
@@ -4312,7 +4312,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE2224)
-    (at 153.67 92.71)
+    (at 152.4 92.71)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /622ECED4)
@@ -4348,7 +4348,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE2213)
-    (at 160.02 92.71)
+    (at 158.75 92.71)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /622ED018)
@@ -4456,7 +4456,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE21E0)
-    (at 160.02 96.52)
+    (at 158.75 96.52)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /622ECFF3)
@@ -4528,7 +4528,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE21BE)
-    (at 160.02 100.33)
+    (at 158.75 100.33)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /622ECFD4)
@@ -4708,7 +4708,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE2169)
-    (at 165.1 63.5)
+    (at 166.37 63.5)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /622ED03E)
@@ -4888,7 +4888,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE20F2)
-    (at 148.59 116.84)
+    (at 149.0725 116.84)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /621E6251)
@@ -4924,7 +4924,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE20E1)
-    (at 134.62 123.19)
+    (at 134.62 125.73)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /621E6257)
@@ -4960,7 +4960,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE20D0)
-    (at 112.5475 92.71)
+    (at 110.49 92.71)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /621E61E9)
@@ -4996,7 +4996,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE20BF)
-    (at 118.11 92.71)
+    (at 116.84 92.71)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /621E632D)
@@ -5068,7 +5068,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE209D)
-    (at 147.8025 125.73)
+    (at 149.0725 125.73)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /621E6229)
@@ -5104,7 +5104,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE208C)
-    (at 118.11 96.52)
+    (at 116.84 96.52)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /621E6308)
@@ -5176,7 +5176,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE206A)
-    (at 118.11 100.33)
+    (at 116.84 100.33)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /621E62E9)
@@ -5356,7 +5356,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE2015)
-    (at 124.46 63.27)
+    (at 123.19 63.5)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /621E6353)
@@ -5500,7 +5500,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE1FD1)
-    (at 147.32 140.97)
+    (at 148.59 140.97)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /621E6289)
@@ -5536,7 +5536,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE1FC0)
-    (at 147.32 137.16)
+    (at 148.59 137.16)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /621E6277)
@@ -5572,7 +5572,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE1FAF)
-    (at 147.32 133.35)
+    (at 148.59 133.35)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /621E6386)
@@ -5608,7 +5608,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE1F9E)
-    (at 107.95 116.84)
+    (at 106.68 116.84)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /61EB2548)
@@ -5644,7 +5644,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE1F8D)
-    (at 92.71 123.19)
+    (at 92.71 125.73)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /61EB3905)
@@ -5680,7 +5680,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE1F7C)
-    (at 69.85 91.44)
+    (at 69.85 92.71)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /61DAA8AC)
@@ -5716,7 +5716,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE1F6B)
-    (at 76.2 91.44 180)
+    (at 76.2 92.71 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /61F5F7ED)
@@ -5788,7 +5788,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE1F49)
-    (at 105.41 125.73 180)
+    (at 106.68 125.73 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /61E96ED8)
@@ -5824,7 +5824,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE1F38)
-    (at 76.2 96.52)
+    (at 76.2 97.79)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /61F2CDD4)
@@ -5896,7 +5896,7 @@
   )
 
   (module Resistor_SMD:R_0603_1608Metric (layer B.Cu) (tedit 5B301BBD) (tstamp 61CE1F16)
-    (at 76.2 100.33)
+    (at 76.2 101.6)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /61F0CE38)
@@ -6866,7 +6866,7 @@
   )
 
   (module Diode_SMD:D_SOD-323_HandSoldering (layer B.Cu) (tedit 58641869) (tstamp 61CE19E0)
-    (at 195.58 100.33)
+    (at 194.31 100.33)
     (descr SOD-323)
     (tags SOD-323)
     (path /6266B746)
@@ -6909,7 +6909,7 @@
   )
 
   (module Diode_SMD:D_SOD-323_HandSoldering (layer B.Cu) (tedit 58641869) (tstamp 61CE19C8)
-    (at 195.58 96.52)
+    (at 194.31 96.52)
     (descr SOD-323)
     (tags SOD-323)
     (path /6266B74C)
@@ -7022,7 +7022,7 @@
   )
 
   (module Diode_SMD:D_SOD-323_HandSoldering (layer B.Cu) (tedit 58641869) (tstamp 61CE198A)
-    (at 153.67 100.33)
+    (at 152.4 100.33)
     (descr SOD-323)
     (tags SOD-323)
     (path /622ECE81)
@@ -7065,7 +7065,7 @@
   )
 
   (module Diode_SMD:D_SOD-323_HandSoldering (layer B.Cu) (tedit 58641869) (tstamp 61CE1972)
-    (at 153.67 96.52)
+    (at 152.4 96.52)
     (descr SOD-323)
     (tags SOD-323)
     (path /622ECE87)
@@ -7178,7 +7178,7 @@
   )
 
   (module Diode_SMD:D_SOD-323_HandSoldering (layer B.Cu) (tedit 58641869) (tstamp 61CE1934)
-    (at 111.76 100.33)
+    (at 110.49 100.33)
     (descr SOD-323)
     (tags SOD-323)
     (path /621E6196)
@@ -7221,7 +7221,7 @@
   )
 
   (module Diode_SMD:D_SOD-323_HandSoldering (layer B.Cu) (tedit 58641869) (tstamp 61CE191C)
-    (at 111.76 96.52)
+    (at 110.49 96.52)
     (descr SOD-323)
     (tags SOD-323)
     (path /621E619C)
@@ -7334,7 +7334,7 @@
   )
 
   (module Diode_SMD:D_SOD-323_HandSoldering (layer B.Cu) (tedit 58641869) (tstamp 61CE18DE)
-    (at 69.85 100.33)
+    (at 69.85 101.6)
     (descr SOD-323)
     (tags SOD-323)
     (path /61D5C775)
@@ -7377,7 +7377,7 @@
   )
 
   (module Diode_SMD:D_SOD-323_HandSoldering (layer B.Cu) (tedit 58641869) (tstamp 61CE18C6)
-    (at 69.85 96.52)
+    (at 69.85 97.79)
     (descr SOD-323)
     (tags SOD-323)
     (path /61D5E0A1)
@@ -8502,7 +8502,7 @@
   )
 
   (module Capacitor_SMD:C_0603_1608Metric (layer B.Cu) (tedit 5B301BBE) (tstamp 61CE152C)
-    (at 148 120.65)
+    (at 149.0725 120.65)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /621E622F)
@@ -8612,7 +8612,7 @@
   )
 
   (module Capacitor_SMD:C_0603_1608Metric (layer B.Cu) (tedit 5B301BBE) (tstamp 61CE1452)
-    (at 152.4 139.7)
+    (at 153.67 139.7)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /621E628F)
@@ -8900,7 +8900,7 @@
   )
 
   (module Capacitor_SMD:C_0603_1608Metric (layer B.Cu) (tedit 5B301BBE) (tstamp 61CE13CA)
-    (at 105.41 120.65 180)
+    (at 106.68 120.65 180)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /61E98DC7)
