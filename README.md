@@ -5,4 +5,4 @@ Heavily based on the work of [Ken Stone](https://www.elby-designs.com/webtek/cgs
 
 _N.B. this is currently in development and not verified as working_
 
-![Prototype Panel v0.5](/Images/Quad%20Tube%20VCA%20Panel.png)
+![Prototype Panel v0.5](/Images/ValvsPanel.png)
