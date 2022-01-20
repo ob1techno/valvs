@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 181)
+    (drawings 189)
     (tracks 4)
     (zones 0)
     (modules 0)
@@ -101,6 +101,14 @@
     (uvia_drill 0.1)
   )
 
+  (gr_line (start 154.813 87.122) (end 158.115 87.122) (layer F.SilkS) (width 0.3) (tstamp 61E963D1))
+  (gr_line (start 144.145 111.125) (end 147.447 111.125) (layer F.SilkS) (width 0.3) (tstamp 61E963D1))
+  (gr_line (start 112.903 87.122) (end 116.205 87.122) (layer F.SilkS) (width 0.3) (tstamp 61E963D1))
+  (gr_line (start 101.981 111.379) (end 105.283 111.379) (layer F.SilkS) (width 0.3) (tstamp 61E963D1))
+  (gr_line (start 70.739 87.376) (end 74.041 87.376) (layer F.SilkS) (width 0.3) (tstamp 61E963D1))
+  (gr_line (start 59.563 111.379) (end 62.865 111.379) (layer F.SilkS) (width 0.3) (tstamp 61E963D1))
+  (gr_line (start 29.464 87.376) (end 32.766 87.376) (layer F.SilkS) (width 0.3) (tstamp 61E963D1))
+  (gr_line (start 18.542 111.506) (end 21.844 111.506) (layer F.SilkS) (width 0.3))
   (gr_circle (center 151.104663 168.275) (end 156.21 168.275) (layer F.SilkS) (width 0.3) (tstamp 61E95FB2))
   (gr_circle (center 109.22 168.376663) (end 114.325337 168.376663) (layer F.SilkS) (width 0.3) (tstamp 61E95FB2))
   (gr_circle (center 66.929 168.376663) (end 72.034337 168.376663) (layer F.SilkS) (width 0.3) (tstamp 61E95FB2))
