@@ -961,7 +961,7 @@ F 1 "A100k" H 3680 5605 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3750 5650 50  0001 C CNN
 F 3 "" H 3750 5650 50  0001 C CNN
 	1    3750 5650
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L power:+12V #PWR020
@@ -1040,7 +1040,7 @@ F 1 "B100k" H 3680 6405 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3750 6450 50  0001 C CNN
 F 3 "" H 3750 6450 50  0001 C CNN
 	1    3750 6450
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L power:GND #PWR034
@@ -1123,7 +1123,7 @@ F 1 "A100k" H 3681 4305 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3750 4350 50  0001 C CNN
 F 3 "" H 3750 4350 50  0001 C CNN
 	1    3750 4350
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:R_Small_US R7
@@ -1182,7 +1182,7 @@ F 1 "A100k" H 3631 3055 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3700 3100 50  0001 C CNN
 F 3 "" H 3700 3100 50  0001 C CNN
 	1    3700 3100
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:R_Small_US R4
@@ -1541,7 +1541,7 @@ F 1 "A100k" H 3631 8955 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3700 9000 50  0001 C CNN
 F 3 "" H 3700 9000 50  0001 C CNN
 	1    3700 9000
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Wire Wire Line
 	3900 10250 4450 10250
@@ -1611,7 +1611,7 @@ F 1 "A100k" H 3681 10205 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3750 10250 50  0001 C CNN
 F 3 "" H 3750 10250 50  0001 C CNN
 	1    3750 10250
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Wire Wire Line
 	5050 9100 5050 9500
@@ -1683,17 +1683,6 @@ F 1 "GND" H 3755 12477 50  0000 C CNN
 F 2 "" H 3750 12650 50  0001 C CNN
 F 3 "" H 3750 12650 50  0001 C CNN
 	1    3750 12650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R_POT POT_CV_LEVEL2
-U 1 1 621E631F
-P 3750 12350
-F 0 "POT_CV_LEVEL2" H 3680 12396 50  0000 R CNN
-F 1 "B100k" H 3680 12305 50  0000 R CNN
-F 2 "Eurocad:Alpha9mmPot" H 3750 12350 50  0001 C CNN
-F 3 "" H 3750 12350 50  0001 C CNN
-	1    3750 12350
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -1773,7 +1762,7 @@ F 1 "A100k" H 3680 11505 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3750 11550 50  0001 C CNN
 F 3 "" H 3750 11550 50  0001 C CNN
 	1    3750 11550
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Wire Wire Line
 	5500 12350 5600 12350
@@ -3463,7 +3452,7 @@ F 1 "A100k" H 3680 17505 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3750 17550 50  0001 C CNN
 F 3 "" H 3750 17550 50  0001 C CNN
 	1    3750 17550
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L power:+12V #PWR084
@@ -3542,7 +3531,7 @@ F 1 "B100k" H 3680 18305 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3750 18350 50  0001 C CNN
 F 3 "" H 3750 18350 50  0001 C CNN
 	1    3750 18350
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L power:GND #PWR098
@@ -3625,7 +3614,7 @@ F 1 "A100k" H 3681 16205 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3750 16250 50  0001 C CNN
 F 3 "" H 3750 16250 50  0001 C CNN
 	1    3750 16250
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:R_Small_US R47
@@ -3695,7 +3684,7 @@ F 1 "A100k" H 3631 14955 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3700 15000 50  0001 C CNN
 F 3 "" H 3700 15000 50  0001 C CNN
 	1    3700 15000
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:R_Small_US R44
@@ -4702,7 +4691,7 @@ F 1 "A100k" H 3730 23605 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3800 23650 50  0001 C CNN
 F 3 "" H 3800 23650 50  0001 C CNN
 	1    3800 23650
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L power:+12V #PWR0116
@@ -4781,7 +4770,7 @@ F 1 "B100k" H 3730 24405 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3800 24450 50  0001 C CNN
 F 3 "" H 3800 24450 50  0001 C CNN
 	1    3800 24450
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L power:GND #PWR0130
@@ -4864,7 +4853,7 @@ F 1 "A100k" H 3731 22305 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3800 22350 50  0001 C CNN
 F 3 "" H 3800 22350 50  0001 C CNN
 	1    3800 22350
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:R_Small_US R67
@@ -4934,7 +4923,7 @@ F 1 "A100k" H 3681 21055 50  0000 R CNN
 F 2 "Eurocad:Alpha9mmPot" H 3750 21100 50  0001 C CNN
 F 3 "" H 3750 21100 50  0001 C CNN
 	1    3750 21100
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:R_Small_US R64
@@ -5753,4 +5742,15 @@ Wire Wire Line
 	15100 5800 15150 5800
 Connection ~ 15150 5800
 NoConn ~ 12950 21950
+$Comp
+L Device:R_POT POT_CV_LEVEL2
+U 1 1 621E631F
+P 3750 12350
+F 0 "POT_CV_LEVEL2" H 3680 12396 50  0000 R CNN
+F 1 "B100k" H 3680 12305 50  0000 R CNN
+F 2 "Eurocad:Alpha9mmPot" H 3750 12350 50  0001 C CNN
+F 3 "" H 3750 12350 50  0001 C CNN
+	1    3750 12350
+	1    0    0    1   
+$EndComp
 $EndSCHEMATC
