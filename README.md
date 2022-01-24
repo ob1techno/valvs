@@ -10,3 +10,6 @@ _N.B. this is currently in development and not verified as working_
 ![Prototype PCB Front](/Images/ValvsPcbFront.png)
 
 ![Prototype PCB Rear](/Images/ValvsPcbRear.png)
+
+![Prototype v0.3 Build](/Images/Valvs03.png)
+
