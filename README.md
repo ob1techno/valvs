@@ -13,7 +13,7 @@ v1.0 panel design
 ---
 
 ![Prototype PCB Front](/Images/ValvsPcbFront.png)
-v1.0 PCB front
+v1.0 PCB front (an incorrect 3D model has been used for the tubes here as I couldn't find the right one!)
 
 ---
 
