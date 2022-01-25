@@ -1,5 +1,5 @@
 # Vālvs
-A cascading quad tube VCA module in Eurorack format, using NOS Soviet 1Ж24Б tubes.
+A cascading quad tube VCA module in Eurorack format, using NOS Soviet 1Ж24Б tubes; as used in the Спутник 1 satellite and Восток 1 spacecraft!
 
 Vālvs provides four gnarly tube VCAs with adjustable, switchable distortion, feedback, drive and gain controls.
 
