@@ -17,9 +17,11 @@ _N.B. this is currently in development and not verified as working_
 
 ---
 
-### v1.0 PCB front (an incorrect 3D model has been used for the tubes here as I couldn't find the right one!)
+### v1.0 PCB front 
 
 ![Prototype PCB Front](/Images/ValvsPcbFront.png)
+
+N.B. - an incorrect 3D model has been used for the tubes here as I couldn't find the right one!
 
 ---
 
