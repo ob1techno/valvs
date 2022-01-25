@@ -1,6 +1,10 @@
 # Vālvs
 A cascading quad tube VCA in Eurorack format.
 
+Vālvs provides four gnarly tube VCAs with adjustable, switchable distortion, feedback, drive and gain controls.
+
+Vālvs’ outputs are daisy-chained, allowing adjacent groups of 2, 3, or all 4 channels to be mixed together.
+
 Heavily based on the work of [Ken Stone](https://www.elby-designs.com/webtek/cgs/cgs65/cgs65_vca.html), [L-1](http://l-1.su/TubeVCA.html) and [Émilie Gillet](https://mutable-instruments.net/modules/veils/).
 
 _N.B. this is currently in development and not verified as working_
