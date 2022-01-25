@@ -27,5 +27,7 @@ v1.0 PCB rear
 ---
 
 ![Prototype v0.3 Build](/Images/Valvs03.png)
+
+![Prototype v0.3 Build](/Images/Valvs03on.png)
 v0.3 prototype build
 
