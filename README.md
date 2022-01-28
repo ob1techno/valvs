@@ -11,13 +11,13 @@ _N.B. this is currently in development and not verified as working_
 
 ---
 
-### v1.0 panel design
+### v1.01 panel design
 
 ![Prototype Panel](/Images/ValvsPanel.png)
 
 ---
 
-### v1.0 PCB front 
+### v1.01 PCB front 
 
 ![Prototype PCB Front](/Images/ValvsPcbFront.png)
 
@@ -25,7 +25,7 @@ N.B. - an incorrect 3D model has been used for the tubes here as I couldn't find
 
 ---
 
-### v1.0 PCB rear
+### v1.01 PCB rear
 
 ![Prototype PCB Rear](/Images/ValvsPcbRear.png)
 

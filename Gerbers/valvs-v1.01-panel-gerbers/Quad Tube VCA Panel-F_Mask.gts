@@ -1,18 +1,18 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(5.1.6-0-10_14)*%
-%TF.CreationDate,2022-01-25T18:48:59+00:00*%
+%TF.CreationDate,2022-01-28T11:35:50+00:00*%
 %TF.ProjectId,Quad Tube VCA Panel,51756164-2054-4756-9265-205643412050,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.6-0-10_14)) date 2022-01-25 18:48:59*
+G04 Created by KiCad (PCBNEW (5.1.6-0-10_14)) date 2022-01-28 11:35:50*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
 %ADD10C,0.300000*%
-%ADD11C,0.500000*%
+%ADD11C,0.700000*%
 %ADD12C,0.150000*%
 %ADD13C,0.250000*%
 %ADD14C,0.200000*%
