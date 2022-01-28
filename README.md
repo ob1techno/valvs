@@ -9,6 +9,11 @@ Based on/inspired by the work of [Ken Stone](https://www.elby-designs.com/webtek
 
 _N.B. this is currently in development and not verified as working_
 
+## Notes
+
+### Noise
+This is inherently a pretty noisy circuit. The tubes can be a little microphonic (this can be improved a little by mounting with some foam/padding between tube and board). The LEDs in Ken Stone's original design injected some more noise as they were connected to the tube's cathode which is in the signal path. L-1's design removes the LEDs, replacing with a 1/2W resistor to ground. I've built the circuit both ways and L-1's design is definitely less noisy. I originally thought I preferred the sound with the LEDs, but with all four VCAs mixed, the noise is too noticable, so I've gone with a resistor to ground! I've kept the LEDs to light the tubes, but these are now powered separately, away from the signal path. Even so, these are still quite noisy VCAs, though I prefer the term characterful!
+
 ---
 
 ### v1.01 panel design
