@@ -16,7 +16,7 @@ There are no hard and fast rules here. The module is intended to be pretty flexi
 
 Each VCA has 4 trimmers on the back of the PCB:
 
-- Plate; this adjusts the plate voltage between 8.2k and 28.2k, which affects the overall gain of the VCA
+- Plate; this adjusts the plate resistance between 8.2k and 28.2k, which affects the overall gain of the VCA
 - CV Init; this adjusts the initial gain voltage, which can be trimmed to ensure the VCA closes completely
 - Clean; adjusts the amount of distortion for the "Clean" mode
 - Dist; adjusts the amount of distortion for the "Dirty" mode
