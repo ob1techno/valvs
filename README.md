@@ -11,11 +11,23 @@ _N.B. this is currently in development and not verified as working_
 
 ## Notes
 
+### Disclaimer
+I am not an electronic engineer. I am a musician with a keen interest in synthesis and electronics. I am entirely self-taught and I'm sure I have made many mistakes. I have tried to ensure that this works well before publishing my work, but this is presented as-is and with no guarantees or acceptance of responsibility on my part. I'd welcome any feedback and I am interested in improving the design; please use the issues section. I also make no promises to support this project, but do get in touch and I'll help if I can.
+
 ### Noise
 This is inherently a pretty noisy circuit. The tubes can be a little microphonic (this can be improved a little by mounting with some foam/padding between tube and board). The LEDs in Ken Stone's original design injected some more noise as they were connected to the tube's cathode which is in the signal path. L-1's design removes the LEDs, replacing with a 1/2W resistor to ground. I've built the circuit both ways and L-1's design is definitely less noisy. I originally thought I preferred the sound with the LEDs, but with all four VCAs mixed, the noise is too noticable, so I've gone with a resistor to ground! I've kept the LEDs to light the tubes, but these are now powered separately, away from the signal path. Even so, these are still quite noisy VCAs, though I prefer the term characterful!
 
-### Disclaimer
-I am not an electronic engineer. I am a musician with a keen interest in synthesis and electronics. I am entirely self-taught and I'm sure I have made many mistakes. I have tried to ensure that this works well before publishing my work, but this is presented as-is and with no guarantees or acceptance of responsibility on my part. I'd welcome any feedback and I am interested in improving the design; please use the issues section. I also make no promises to support this project, but do get in touch and I'll help if I can.
+### Calibration/Adjustment
+There are no hard and fast rules here. The module is intended to be pretty flexible in terms of gain/distortion so it's very much a case of setting it up to your own taste. You could calibrate each of the 4 VCAs as closely as possible to each other to keep things consistent (e.g. for dual stereo use), or you could set each up to have a different character/flavour. 
+
+Each VCA has 4 trimmers on the back of the PCB:
+
+- Plate; this adjusts the plate voltage between 8.2k and 28.2k, which affects the overall gain of the VCA
+- CV Init; this adjusts the initial gain voltage, which can be trimmed to ensure the VCA closes completely
+- Clean; adjusts the amount of distortion for the "Clean" mode
+- Dist; adjusts the amount of distortion for the "Dirty" mode
+
+It's _fairly_ important to get the CV Init trimmed correctly to avoid any audible bleed, but other than that, it's down to taste. You shoud be aware that with additional gain/distortion, there will be inevitable additional noise, so experiment to find the sweet spots.
 
 ---
 
