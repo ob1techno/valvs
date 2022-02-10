@@ -12,7 +12,7 @@ _N.B. this is currently in development and v1.01 is not yet verified as working_
 ## Notes
 
 ### Calibration/Adjustment
-There are no hard and fast rules here. The module is intended to be pretty flexible in terms of gain/distortion so it's very much a case of setting it up to your own taste. You could calibrate each of the 4 VCAs as closely as possible to each other to keep things consistent (e.g. for dual stereo use), or you could set each up to have a different character/flavour. 
+There are no hard and fast rules here. The module is intended to be pretty flexible in terms of gain/distortion so it's very much a case of setting it up to your own taste. You could calibrate each of the 4 VCAs as closely as possible to each other to keep things consistent or you could set each up to have a different character/flavour. 
 
 Each VCA has 4 trimmers on the back of the PCB:
 
