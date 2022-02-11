@@ -32,6 +32,12 @@ I used some KiCad components/footprints that you might need to install if you wa
 - [EuroCad](https://github.com/nebs/eurocad)
 - [E-Switch](https://www.snapeda.com/parts/100SP1T1B4M2QE/E-Switch/view-part/)
 
+### Parts/Construction
+I selected parts for this module based on several factors; what I had in stock already, parts I am familiar with and like to use, availability, etc. This means it may not be the easiest module for some to build. For example, I've used 0603 passives, where I could probably have fit a larger size, or used through-hole components. I made this decision because I have a large stock of 0603 passives and I personally prefer SMT to THT. That said, I don't think this is a difficult build. I've built a few of them and it's a relatively low part count per VCA, so quite quick to put together. 
+
+The construction should all be self explanatory as it's just a single board. Parts go on the side where their silkscreen is (although if you used particularly tall film box caps, you might need to move them to the back). There's also the option of mounting the trimmers for the clean/dirty distortion on the front of the PCB and drilling holes so they're adjustable from the front, if you like that sort of thing. It's worth using some heatshrink on the tube legs for peace of mind, though not strictly necessary.
+
+
 ## Images
 
 ### v1.01 panel design
