@@ -71,5 +71,11 @@ N.B. - an incorrect 3D model has been used for the tubes here as I couldn't find
 ---
 
 ### Disclaimer
-I am not an electronic engineer. I am a musician/programmer with a keen interest in synthesis and electronics. I am entirely self-taught and I'm sure I have made many mistakes. I have tried to ensure that this works well before publishing my work, but this is presented as-is and with no guarantees or acceptance of responsibility on my part. I'd welcome any feedback and I am interested in improving the design; please use the issues section or submit a pull request. I also make no promises to support this project, but do get in touch and I'll help if I can. I don't intend to make any money out of this project, but if you like what you find here and would like to make a donation towards my R&D costs, you can do so [here](https://www.paypal.com/donate/?business=YHBG5EA6B6ZP4&no_recurring=0&item_name=Any+donations+to+help+cover+R%26D+costs+gratefully+received%21+&currency_code=GBP) with thanks.
+I am not an electronic engineer. I am a musician/programmer with a keen interest in synthesis and electronics. I am entirely self-taught; this was my first project using KiCad and I'm sure I have made many mistakes. 
+
+I have tried to ensure that this works well before publishing my work, but this is presented as-is and with no guarantees or acceptance of responsibility on my part. I'd welcome any feedback and I am interested in improving the design; please use the issues section or submit a pull request. 
+
+I also make no promises to support this project, but do get in touch and I'll help if I can. 
+
+I don't intend to make any money out of this project, but if you like what you find here and would like to make a donation towards my R&D costs, you can do so [here](https://www.paypal.com/donate/?business=YHBG5EA6B6ZP4&no_recurring=0&item_name=Any+donations+to+help+cover+R%26D+costs+gratefully+received%21+&currency_code=GBP) with thanks.
 
