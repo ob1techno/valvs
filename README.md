@@ -12,7 +12,7 @@ Vālvs’ outputs are daisy-chained, allowing adjacent groups of 2, 3, or all 4 
 Based on/inspired by the work of [Ken Stone](https://www.elby-designs.com/webtek/cgs/cgs65/cgs65_vca.html), [L-1](http://l-1.su/TubeVCA.html) and [Émilie Gillet](https://mutable-instruments.net/modules/veils/), using NOS Soviet 1Ж24Б tubes; as used in the Спутник 1 satellite and Восток 1 spacecraft!
 
 ## [Build Guide](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide) 
-The v1.01 build guide is available [in the wiki](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide).
+The [v1.01 build guide](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide) is available [in the wiki](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide).
 
 ## Notes
 
