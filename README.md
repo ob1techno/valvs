@@ -5,6 +5,10 @@ Vālvs provides four gnarly tube VCAs with drive, gain, feedback, and adjustable
 
 Vālvs’ outputs are daisy-chained, allowing adjacent groups of 2, 3, or all 4 channels to be mixed together.
 
+![Vālvs v1.01 Front](/Images/Valvs101Front.png)
+
+![Vālvs v1.01 Rear](/Images/Valvs101Rear.png)
+
 Based on/inspired by the work of [Ken Stone](https://www.elby-designs.com/webtek/cgs/cgs65/cgs65_vca.html), [L-1](http://l-1.su/TubeVCA.html) and [Émilie Gillet](https://mutable-instruments.net/modules/veils/), using NOS Soviet 1Ж24Б tubes; as used in the Спутник 1 satellite and Восток 1 spacecraft!
 
 _N.B. this is currently in development and v1.01 is not yet verified as working_
