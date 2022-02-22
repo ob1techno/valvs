@@ -11,6 +11,9 @@ Vālvs’ outputs are daisy-chained, allowing adjacent groups of 2, 3, or all 4 
 
 Based on/inspired by the work of [Ken Stone](https://www.elby-designs.com/webtek/cgs/cgs65/cgs65_vca.html), [L-1](http://l-1.su/TubeVCA.html) and [Émilie Gillet](https://mutable-instruments.net/modules/veils/), using NOS Soviet 1Ж24Б tubes; as used in the Спутник 1 satellite and Восток 1 spacecraft!
 
+## [Build Guide](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide) 
+The v1.01 build guide is available [in the wiki](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide).
+
 ## Notes
 
 ### Calibration/Adjustment
@@ -45,7 +48,7 @@ There's also the option of mounting the trimmers for the clean/dirty distortion 
 
 It's worth using some heatshrink on the tube legs for peace of mind, though not strictly necessary, and I like to use some acetate sheet to fill the windows in case of dust, stray cables, etc.
 
-There are some build photos in the wiki.
+[There are some build photos in the wiki.](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide)
 
 ## Images
 
