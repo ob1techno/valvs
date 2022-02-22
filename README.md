@@ -1,5 +1,5 @@
 # Vālvs
-A cascading quad tube VCA module in Eurorack format.
+A cascading quad tube VCA module in Eurorack format (3U/32hp).
 
 Vālvs provides four gnarly tube VCAs with drive, gain, feedback, and adjustable, switchable distortion controls.
 
