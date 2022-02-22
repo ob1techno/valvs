@@ -11,8 +11,6 @@ Vālvs’ outputs are daisy-chained, allowing adjacent groups of 2, 3, or all 4 
 
 Based on/inspired by the work of [Ken Stone](https://www.elby-designs.com/webtek/cgs/cgs65/cgs65_vca.html), [L-1](http://l-1.su/TubeVCA.html) and [Émilie Gillet](https://mutable-instruments.net/modules/veils/), using NOS Soviet 1Ж24Б tubes; as used in the Спутник 1 satellite and Восток 1 spacecraft!
 
-_N.B. this is currently in development and v1.01 is not yet verified as working_
-
 ## Notes
 
 ### Calibration/Adjustment
@@ -39,10 +37,15 @@ I used some KiCad components/footprints that you might need to install if you wa
 - [E-Switch](https://www.snapeda.com/parts/100SP1T1B4M2QE/E-Switch/view-part/)
 
 ### Parts/Construction
-I selected parts for this module based on several factors; what I had in stock already, parts I am familiar with and like to use, availability, etc. This means it may not be the easiest module for some to build. For example, I've used 0603 passives, where I could probably have fit a larger size, or used through-hole components. I made this decision because I have a large stock of 0603 passives and I personally prefer SMT to THT. That said, I don't think this is a difficult build. I've built a few of them and it's a relatively low part count per VCA, so quite quick to put together. 
+I selected parts for this module based on several factors; what I had in stock already, parts I am familiar with and like to use, availability, etc. This means it may not be the easiest module for some to build. For example, I've used 0603 passives, where I could probably have fit a larger size, or used through-hole components. I made this decision because I have a large stock of 0603 passives and I personally prefer SMT to THT. That said, I don't think this is a difficult build. I've built a few of them and it's a relatively low part count per VCA, so quite quick to put together. The surface mount components used should make this suitable for SMD fabrication/assembly services, though so far I've only built them by hand.
 
-The construction should all be self explanatory as it's just a single board. Parts go on the side where their silkscreen is (although if you used particularly tall film box caps, you might need to move them to the back). There's also the option of mounting the trimmers for the clean/dirty distortion on the front of the PCB and drilling holes so they're adjustable from the front, if you like that sort of thing. It's worth using some heatshrink on the tube legs for peace of mind, though not strictly necessary.
+The construction should all be self explanatory as it's just a single board. Parts go on the side where their silkscreen is (although if you used particularly tall film box caps, you might need to move them to the back). 
 
+There's also the option of mounting the trimmers for the clean/dirty distortion on the front of the PCB and drilling holes so they're adjustable from the front, if you like that sort of thing. 
+
+It's worth using some heatshrink on the tube legs for peace of mind, though not strictly necessary, and I like to use some acetate sheet to fill the windows in case of dust, stray cables, etc.
+
+There are some build photos in the wiki.
 
 ## Images
 
