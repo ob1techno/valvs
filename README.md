@@ -102,5 +102,3 @@ I have tried to ensure that this works well before publishing my work, but this 
 
 I also make no promises to support this project, but do get in touch and I'll help if I can. 
 
-I don't intend to make any money out of this project, but if you like what you find here and would like to make a donation towards my R&D costs, you can do so [here](https://www.paypal.com/donate/?business=YHBG5EA6B6ZP4&no_recurring=0&item_name=Any+donations+to+help+cover+R%26D+costs+gratefully+received%21+&currency_code=GBP) with thanks.
-
