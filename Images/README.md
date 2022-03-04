@@ -1,12 +1,24 @@
 ## Images
 
-### v1.01 panel design
+### "OG" unit
+
+![Vālvs v1.01 Front](/Images/Valvs101Front.png)
+
+---
+
+### "Stealth" unit
+
+![Vālvs v1.01 Stealth Mode](/Images/Valvs101FrontStealth.png)
+
+---
+
+### Panel design
 
 ![Prototype Panel](/Images/ValvsPanel.png)
 
 ---
 
-### v1.01 PCB front 
+### PCB front 
 
 ![Prototype PCB Front](/Images/ValvsPcbFront.png)
 
@@ -14,9 +26,15 @@ N.B. - an incorrect 3D model has been used for the tubes here as I couldn't find
 
 ---
 
-### v1.01 PCB rear
+### PCB rear
 
 ![Prototype PCB Rear](/Images/ValvsPcbRear.png)
+
+---
+
+### v1.01 build
+
+![Vālvs v1.01 Rear](/Images/Valvs101Rear.png)
 
 ---
 
