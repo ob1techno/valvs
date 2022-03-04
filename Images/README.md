@@ -8,7 +8,7 @@
 
 ### "Stealth" unit
 
-![Vālvs v1.01 Stealth Mode](/Images/Valvs101FrontStealth.png)
+![Vālvs v1.01 Stealth Mode](/Images/Valvs101FrontDark.png)
 
 ---
 
