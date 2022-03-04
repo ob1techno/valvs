@@ -1,0 +1,1 @@
+These BOMs are for old versions of the PCB. The BOM for the most recent PCB version can be found in the Assembly Files directory.
