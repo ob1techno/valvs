@@ -24,7 +24,7 @@ Based on/inspired by the work of [Ken Stone](https://www.elby-designs.com/webtek
 [![Vālvs - Quad Tube VCA - Mixer demo](https://yt-embed.herokuapp.com/embed?v=zRkru6GmQA4)](https://www.youtube.com/watch?v=zRkru6GmQA4 "Vālvs - Quad Tube VCA - Mixer demo")
 
 ## [Build Guide](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide) 
-The [v1.01 build guide](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide) is available [in the wiki](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide).
+The [build guide](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide) is available [in the wiki](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide).
 
 ## Notes
 
