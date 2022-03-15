@@ -60,7 +60,7 @@ It's worth using some heatshrink on the tube legs for peace of mind, though not 
 ### Disclaimer
 I am not an electronic engineer. I am a musician/programmer with a keen interest in synthesis and electronics. I am entirely self-taught; this was my first project using KiCad and I'm sure I have made many mistakes. 
 
-I have tried to ensure that this works well before publishing my work, but this is presented as-is and with no guarantees or acceptance of responsibility on my part. I'd welcome any feedback and I am interested in improving the design; please use the issues section or submit a pull request. 
+I have tried to ensure that this works before publishing my work, but this is presented as-is and with no guarantees or acceptance of responsibility on my part. I'd welcome any feedback and I am interested in improving the design; please use the issues section or submit a pull request. 
 
 I also make no promises to support this project, but do get in touch and I'll help if I can. 
 
