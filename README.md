@@ -9,6 +9,8 @@ Vālvs’ outputs are daisy-chained, allowing adjacent groups of 2, 3, or all 4 
 
 Based on/inspired by the work of [Ken Stone](https://www.elby-designs.com/webtek/cgs/cgs65/cgs65_vca.html), [L-1](http://l-1.su/TubeVCA.html) and [Émilie Gillet](https://mutable-instruments.net/modules/veils/), using NOS Soviet 1Ж24Б tubes; as used in the Спутник 1 satellite and Восток 1 spacecraft!
 
+N.B. - the current version is not verified as working.
+
 ## Demos
 #### Single channel audio demo
 [![Vālvs - Quad Tube VCA - Single channel audio demo](https://yt-embed.herokuapp.com/embed?v=XpYaYiyOpng)](https://www.youtube.com/watch?v=XpYaYiyOpng "Vālvs - Quad Tube VCA - Single channel audio demo")
