@@ -16,8 +16,8 @@ Based on/inspired by the work of [Ken Stone](https://www.elby-designs.com/webtek
 #### Mixer demo
 [![Vālvs - Quad Tube VCA - Mixer demo](https://yt-embed.herokuapp.com/embed?v=zRkru6GmQA4)](https://www.youtube.com/watch?v=zRkru6GmQA4 "Vālvs - Quad Tube VCA - Mixer demo")
 
-## [Build Guide](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide) 
-The [build guide](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide) is available [in the wiki](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide).
+## [Build Guide](https://github.com/ob1techno/valvs/wiki/Vālvs-Build-Guide) 
+The [build guide](https://github.com/ob1techno/valvs/wiki/Vālvs-Build-Guide) is available [in the wiki](https://github.com/ob1techno/valvs/wiki/Vālvs-Build-Guide).
 
 ## Notes
 
@@ -53,7 +53,7 @@ There's also the option of mounting the trimmers for the clean/dirty distortion 
 
 It's worth using some heatshrink on the tube legs for peace of mind, though not strictly necessary, and I like to use some acetate sheet to fill the windows in case of dust, stray cables, etc.
 
-[There are some build photos in the wiki.](https://github.com/ob1techno/valvs/wiki/Vālvs-v1.01---Build-Guide)
+[There are some build photos in the wiki.](https://github.com/ob1techno/valvs/wiki/Vālvs-Build-Guide)
 
 ### Disclaimer
 I am not an electronic engineer. I am a musician/programmer with a keen interest in synthesis and electronics. I am entirely self-taught; this was my first project using KiCad and I'm sure I have made many mistakes. 
