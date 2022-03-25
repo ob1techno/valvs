@@ -9,8 +9,6 @@ Vālvs’ outputs are daisy-chained, allowing adjacent groups of 2, 3, or all 4 
 
 Based on/inspired by the work of [Ken Stone](https://www.elby-designs.com/webtek/cgs/cgs65/cgs65_vca.html), [L-1](http://l-1.su/TubeVCA.html) and [Émilie Gillet](https://mutable-instruments.net/modules/veils/), using NOS Soviet 1Ж24Б tubes; as used in the Спутник 1 satellite and Восток 1 spacecraft!
 
-N.B. - the current version is not verified as working.
-
 ## Demos
 #### Single channel audio demo
 [![Vālvs - Quad Tube VCA - Single channel audio demo](https://yt-embed.herokuapp.com/embed?v=XpYaYiyOpng)](https://www.youtube.com/watch?v=XpYaYiyOpng "Vālvs - Quad Tube VCA - Single channel audio demo")
@@ -30,7 +28,7 @@ Each VCA has 4 trimmers on the back of the PCB:
 
 - Plate; this adjusts the plate resistance between 8.2k and 28.2k, which affects the overall gain of the VCA
 - CV Init; this adjusts the initial gain voltage, which can be trimmed to ensure the VCA closes completely
-- Clean; adjusts the amount of distortion for the "Clean" mode
+- Clean; adjusts the amount of distortion for the "Clean" mode ("Clean" is a relative term in this case)
 - Dist; adjusts the amount of distortion for the "Dirty" mode
 
 It's _fairly_ important to get the CV Init trimmed correctly to avoid any audible bleed, but other than that, it's down to taste. You shoud be aware that with additional gain/distortion, there will be inevitable additional noise, so experiment to find the sweet spots.
@@ -47,7 +45,7 @@ I used some KiCad components/footprints that you might need to install if you wa
 - [E-Switch](https://www.snapeda.com/parts/100SP1T1B4M2QE/E-Switch/view-part/)
 
 ### Parts/Construction
-I selected parts for this module based on several factors; what I had in stock already, parts I am familiar with and like to use, availability, etc. This means it may not be the easiest module for some to build. For example, I've used 0603 passives, where I could probably have fit a larger size, or used through-hole components. I made this decision because I have a large stock of 0603 passives and I personally prefer SMT to THT. That said, I don't think this is a difficult build. I've built a few of them and it's a relatively low part count per VCA, so quite quick to put together. The surface mount components used make this suitable for SMD fabrication/assembly services.
+I selected parts for this module based on several factors; what I had in stock already, parts I am familiar with and like to use, availability, etc. This means it may not be the easiest module for some to build. For example, I've used 0603 passives, where I could probably have fit a larger size, or used through-hole components. I made this decision because I have a large stock of 0603 passives and I personally prefer SMT to THT. That said, I don't think this is a difficult build. I've built a few of them and it's a relatively low part count per VCA, so quite quick to put together. The surface mount components used also make this suitable for SMD fabrication/assembly services, which I have used successfully on my latest builds.
 
 The construction should all be self explanatory as it's just a single board. Parts go on the side where their silkscreen is (although if you used particularly tall film box caps, you might need to move them to the back). 
 
