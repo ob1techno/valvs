@@ -5875,4 +5875,6 @@ Wire Wire Line
 Connection ~ 11150 21400
 Wire Wire Line
 	11150 21400 11200 21400
+Text Notes 12950 27300 0    50   ~ 0
+“Vālvs”!!
 $EndSCHEMATC
